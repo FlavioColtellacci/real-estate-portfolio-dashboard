@@ -9,3 +9,4 @@ Interactive Tableau dashboard for real estate portfolio analysis.
 └── data/
     └── sample-data.csv   (optional / anonymized)
 
+https://public.tableau.com/views/RealEstatePortfolioPerformanceDashboard/PortfolioOverview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
