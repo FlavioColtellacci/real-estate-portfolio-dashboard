@@ -24,7 +24,7 @@ Interactive Tableau dashboard designed to analyze a multi-property real estate p
 )
 
 ## Preview
-![Dashboard Preview](dashboard-preview.png)
+[![Dashboard Preview](dashboard-preview.png)](https://github.com/FlavioColtellacci/real-estate-portfolio-dashboard/blob/main/Dashboard.png)
 
 ## Use Case
 Built as a portfolio project to demonstrate data visualization, business analysis, and real estate analytics skills.
